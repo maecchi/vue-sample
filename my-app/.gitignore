@@ -22,3 +22,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+package-lock.json
+selenium-debug.log
+yarn.lock
