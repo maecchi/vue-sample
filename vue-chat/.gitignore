@@ -22,4 +22,9 @@ yarn-error.log*
 
 
 # setting file
+src/components
 public
+.firebase
+package-lock.json
+yarn.lock
+.firebaserc
